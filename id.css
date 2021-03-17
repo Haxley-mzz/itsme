@@ -1,4 +1,9 @@
 html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
+
+a{
+  text-decoration: none;
+}
+
 .myname {
   width: 100%;
   font-size: 2em;
@@ -15,15 +20,20 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
   margin: 8px;
 }
 .w3-teal {
-  background-color: #8B85C1 !important;
+  background-color: #99c2ff !important;
 }
+.colored{
+  color: grey; 
+  font-size: 17px;
+}
+
 .fa-certificate:before, .fa-suitcase:before,.fa-calendar:before,.fa-briefcase:before
 ,.fa-home:before,.fa-linkedin:before,.fa-envelope:before,.fa-phone:before,.fa-asterisk:before,
 .fa-globe:before,.fa-institution:before, .fa-bank:before, .fa-university:before,.fa-arrow-right:before{
-  color: #8B85C1;
+  color: #99c2ff;
 }
 .w3-text-teal, .w3-hover-text-teal:hover {
-  color: #8B85C1 !important;
+  color: #99c2ff !important;
 }
 .acc-link {
     text-decoration: none;
